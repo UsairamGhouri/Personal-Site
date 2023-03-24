@@ -105,6 +105,9 @@ a {
     top: 20px;
     text-decoration: none;
 }
+a:hover{
+    color: #eaf6f6;
+}
 
 .btn {
     background: #71d6d6;
